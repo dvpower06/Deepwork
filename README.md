@@ -9,8 +9,8 @@ Deepwork helps you plan tasks and stay focused during deep work sessions. It inc
 - 25-minute Pomodoro focus timer
 - Add, complete, and remove tasks
 - Weekly, monthly, and yearly charts for completed tasks and focus time
-- Saves statistics in your browser
-- Dark-blue interface with no gradients
+- Saves statistics in your browser (for now)
+
 
 ## Tech stack
 
